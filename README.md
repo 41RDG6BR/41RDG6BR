@@ -36,49 +36,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">HooBank</h3>
-        <div align="center">  
-          <a href='https://apphoobank.netlify.app' target="_blank">
-            <img src="https://camo.githubusercontent.com/c4493d95984ace14ebef070617d63d2fa8068b02a1359d1a311b175ce623026b/68747470733a2f2f692e6962622e636f2f424b31486e30782f53637265656e73686f742d323032322d30382d30382d61742d342d30352d34382d504d2e706e67" alt="project 1" height="100%" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/41RDG6BR/hoobank" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="https://apphoobank.netlify.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-            </a>
-          </p>
-          <p><strong>Next, React, CSS, Tailwind</strong></p>
-          <p>Modern website using React.js & Tailwind CSS</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">GPT3</h3>
-        <div align="center" >  
-          <a href='https://webappgpt3.netlify.app' target="_blank">
-            <img src="https://camo.githubusercontent.com/fb037e90eb92f3f53e79f2f0fdada922a8e6f3664140710f0c3691a808b675b6/68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67" alt="project 2" height="100%" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/41RDG6BR/gpt3" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="https://webappgpt3.netlify.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-            </a>	
-          </p>
-          <p><strong>HTML, CSS, Javascript, React, GPT-3</strong></p>
-          <p>Aplicação moderna usando React.js</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
+          <td width="50%">
         <h3 align="center">Restaurante</h3>
         <div align="center" >  
           <a href='https://restaurantemoderno.netlify.app' target="_blank">
@@ -99,6 +57,28 @@
         </div>
       </td>
       <td width="50%">
+        <h3 align="center">GPT3</h3>
+        <div align="center" >  
+          <a href='https://webappgpt3.netlify.app' target="_blank">
+            <img src="https://camo.githubusercontent.com/fb037e90eb92f3f53e79f2f0fdada922a8e6f3664140710f0c3691a808b675b6/68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67" alt="project 2" height="100%" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/41RDG6BR/gpt3" target="_blank">
+              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://webappgpt3.netlify.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+            </a>	
+          </p>
+          <p><strong>React, GPT-3</strong></p>
+          <p>Aplicação moderna usando React.js</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
         <h3 align="center">Viagem</h3>
         <div align="center">  
           <a href='https://mybesttravel.netlify.app' target="_blank">
@@ -117,6 +97,26 @@
           <p><strong>React, Next 13, Tailwind CSS</strong></p>
           <p>Website responsivo moderno</p>
         </div>	
+      </td>
+      <td width="50%">
+        <h3 align="center">HooBank</h3>
+        <div align="center">  
+          <a href='https://apphoobank.netlify.app' target="_blank">
+            <img src="https://camo.githubusercontent.com/c4493d95984ace14ebef070617d63d2fa8068b02a1359d1a311b175ce623026b/68747470733a2f2f692e6962622e636f2f424b31486e30782f53637265656e73686f742d323032322d30382d30382d61742d342d30352d34382d504d2e706e67" alt="project 1" height="100%" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/41RDG6BR/hoobank" target="_blank">
+              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://apphoobank.netlify.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+            </a>
+          </p>
+          <p><strong>Next, React, CSS, Tailwind</strong></p>
+          <p>React.js & Tailwind CSS</p>
+        </div>
       </td>
     </tr>
   </table>
